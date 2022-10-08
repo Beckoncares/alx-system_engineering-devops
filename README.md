@@ -1,1 +1,1 @@
-what you are doing in the folder inside here
+This repository contains solutions to shell permission
